@@ -10,3 +10,4 @@ Blog posts I'd like to write:
 - Decision making for high-functioning corporations
 - The "Optimal Bayesian Agent" from Bostom's Superintelligence
 - How-to pieces on SaaS data operations, analytics, decision-making
+- Business analytics first principles
