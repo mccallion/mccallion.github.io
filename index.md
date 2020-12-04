@@ -1,2 +1,2 @@
-## -rmm blog
-A highly unprofessional blog.
+## data & interpretation
+a data scientist's personal blog
