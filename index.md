@@ -1,2 +1,2 @@
-## data & interpretation
-a data scientist's personal blog
+## a personal blog
+don't expect too much
