@@ -1,3 +1,2 @@
-## -rmm
-
-![Image description](images/golden head lion tamarin.jpg)
+## rmm
+![Two golden head lion tamarins](images/golden head lion tamarin.jpg)
