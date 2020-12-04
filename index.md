@@ -1,2 +1,2 @@
-## Writ Random
-Who knows?
+## -rmm blog
+A highly unprofessional blog.
